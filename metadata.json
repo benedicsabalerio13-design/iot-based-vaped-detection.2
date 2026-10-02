@@ -1,0 +1,6 @@
+{
+  "name": "UDM IoT Vape Detection & Analytics System",
+  "description": "IoT-Based Vape Detection and Descriptive Data Analytics System for Campus Safety Monitoring at Universidad de Manila",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
